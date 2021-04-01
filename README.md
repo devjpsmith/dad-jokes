@@ -2,7 +2,7 @@
 
 ## HTML/CSS/JS sample projects.
 
-Cards expand with transition when clicked.
+Simple page calling an API with JavaScript.
 
 [See it in action!](https://master.d1rwkbnj24ch9r.amplifyapp.com/)
 
